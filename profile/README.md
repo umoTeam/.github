@@ -1,1 +1,1 @@
-<iframe src="https://tongdongyangac-my.sharepoint.com/personal/takh1024_m365_dongyang_ac_kr/_layouts/15/Doc.aspx?sourcedoc={79434bdc-f264-4c75-b55c-c7ca62897891}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaaCheck=0" width="610px" height="367px" frameborder="0">포함된 <a target="_blank" href="https://office.com">Microsoft Office</a> 프레젠테이션, 제공: <a target="_blank" href="https://office.com/webapps">Office</a></iframe>
+
