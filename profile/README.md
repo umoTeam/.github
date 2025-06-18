@@ -7,7 +7,8 @@ Fitmate는 사용자의 체력 수준과 운동 목적에 맞는 **개인 맞춤
 
 ## 💡 프로젝트 배경
 
-(ppt 이미지 첨부 예정,,)
+![image](https://github.com/user-attachments/assets/4e5f558f-8a73-4801-8e35-94c5377bd194)
+
 
 국민체력실태조사 및 사용자 인터뷰 등을 통해 다음과 같은 문제점을 발견하였습니다:
 
@@ -19,7 +20,9 @@ Fitmate는 사용자의 체력 수준과 운동 목적에 맞는 **개인 맞춤
 
 ## 🎯 주요 기능
 
-(ppt 이미지 첨부 예정,,)
+
+![image](https://github.com/user-attachments/assets/1196942f-3e2a-4eb0-9267-528b60b4db06)
+
 
 - **맞춤형 운동 루틴 추천**:  
   사용자의 신체 정보 및 운동 목적을 기반으로 OpenAI의 ChatGPT API를 활용하여 개인 맞춤 루틴 생성
@@ -56,7 +59,9 @@ Fitmate는 사용자의 체력 수준과 운동 목적에 맞는 **개인 맞춤
 
 ## 🖥 시스템 아키텍처
 
-(ppt 이미지 첨부 예정,,)
+
+![image](https://github.com/user-attachments/assets/3f9ec81b-1b11-489a-82f2-2fabe4587afb)
+
 
 - 프론트엔드는 React/Vite 기반 SPA
 - 백엔드는 Spring Boot 기반 REST API 서버
@@ -65,7 +70,8 @@ Fitmate는 사용자의 체력 수준과 운동 목적에 맞는 **개인 맞춤
 
 ## 🎬 시연 영상
 
-👉 (영상 주소 추가 예정,,)
+👉 [영상 바로 보기](https://youtu.be/W-9T7BsV9C0)
+
 
 ## 🙋 팀원 소개 (어쩌다모인팀)
 
